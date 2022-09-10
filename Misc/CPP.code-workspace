@@ -1,0 +1,95 @@
+{
+	"folders": [
+		{
+			"path": "../../CPP"
+		},
+		{
+			"path": "../../WBD"
+		},
+		{
+			"path": "../../CPP-2022"
+		},
+		{
+			"path": "../../cpp-data-structure"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../CSHARP"
+		},
+		{
+			"path": "../../NodeJS"
+		},
+		{
+			"path": "../../JSCypress"
+		},
+		{
+			"path": "../../CypressN"
+		},
+		{
+			"path": "../../backupcypress"
+		},
+		{
+			"path": "../../Python"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS",
+		"files.associations": {
+			"*.ejs": "html",
+			"ostream": "cpp",
+			"vector": "cpp",
+			"xstring": "cpp",
+			"iostream": "cpp",
+			"string.h": "c",
+			"initializer_list": "cpp",
+			"type_traits": "cpp",
+			"xutility": "cpp",
+			"compare": "cpp",
+			"xstddef": "cpp",
+			"atomic": "cpp",
+			"bit": "cpp",
+			"cctype": "cpp",
+			"clocale": "cpp",
+			"cmath": "cpp",
+			"concepts": "cpp",
+			"cstddef": "cpp",
+			"cstdint": "cpp",
+			"cstdio": "cpp",
+			"cstdlib": "cpp",
+			"cstring": "cpp",
+			"ctime": "cpp",
+			"cwchar": "cpp",
+			"exception": "cpp",
+			"ios": "cpp",
+			"iosfwd": "cpp",
+			"istream": "cpp",
+			"iterator": "cpp",
+			"limits": "cpp",
+			"memory": "cpp",
+			"new": "cpp",
+			"ratio": "cpp",
+			"stdexcept": "cpp",
+			"stop_token": "cpp",
+			"streambuf": "cpp",
+			"system_error": "cpp",
+			"thread": "cpp",
+			"tuple": "cpp",
+			"typeinfo": "cpp",
+			"utility": "cpp",
+			"xfacet": "cpp",
+			"xiosbase": "cpp",
+			"xlocale": "cpp",
+			"xlocinfo": "cpp",
+			"xlocnum": "cpp",
+			"xmemory": "cpp",
+			"xtr1common": "cpp",
+			"algorithm": "cpp",
+			"random": "cpp",
+			"stdio.h": "c",
+			"Octalofdecimalnumber.C": "cpp",
+			"countThedigitsofagiven_n.C": "cpp"
+		}
+	}
+}
